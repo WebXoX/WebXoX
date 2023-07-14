@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking for help with Minishell [Minishell](https://github.com/WebXoX/Minishell)
 
+- 📫 How to reach me **https://github.com/WebXoX**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
