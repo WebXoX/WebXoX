@@ -3,13 +3,13 @@
 <img align="right" src="https://github.com/WebXoX/WebXoX/assets/97600250/044a3995-1fd1-469f-bfac-821f5248f6f5" style="height:250px; width:300px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webxox&label=Profile%20views&color=0e75b6&style=flat" alt="webxox" /> </p>
 
-- 🔭 I’m currently working on [Minishell](https://github.com/WebXoX/Minishell)
+- 🔭 I’m currently working on [Minishell](https://github.com/WebXoX/Cube3d)
 
 - 🌱 I’m currently studying at 42 abudhabi **software developer**
 
-- 👯 I’m looking to collaborate on Minishell [Minishell](https://github.com/WebXoX/Minishell)
+- 👯 I’m looking to collaborate on Cube3d [Minishell](https://github.com/WebXoX/Cube3d)
 
-- 🤝 I’m looking for help with Minishell [Minishell](https://github.com/WebXoX/Minishell)
+- 🤝 I’m looking for help with Cube3d [Minishell](https://github.com/WebXoX/Cube3d)
 
 - 📫 How to reach me **https://github.com/WebXoX**
 
