@@ -3,13 +3,13 @@
 <img align="right" src="https://github.com/WebXoX/WebXoX/assets/97600250/044a3995-1fd1-469f-bfac-821f5248f6f5" style="height:250px; width:300px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webxox&label=Profile%20views&color=0e75b6&style=flat" alt="webxox" /> </p>
 
-- 🔭 I’m currently working on [IRC](https://github.com/WebXoX/IRC)
+- 🔭 I’m currently working gre
 
 - 🌱 I’m currently studying at 42 abudhabi **software developer**
 
-- 👯 I’m looking to collaborate on IRC [IRC](https://github.com/WebXoX/IRC)
+- 👯 I’m looking to collaborate with Ai agents
 
-- 🤝 I’m looking for help with [IRC](https://github.com/WebXoX/IRC)
+- 🤝 I’m looking for help with Ai agents
 
 - 📫 How to reach me **https://github.com/WebXoX**
 
